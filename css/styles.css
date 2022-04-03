@@ -1,0 +1,49 @@
+body{
+  background-color: #F3EEBE;
+  text-align: center;           this brings the content to the center
+}
+h1{
+  text-align: center;
+}
+#Level-1{
+  font-size: 3rem;
+  font-style: oblique;
+  color: brown;
+}
+.container{
+  display: block;
+  width: 50%;
+  margin: auto;       /*  margin auto brings the box to the center with 50% width */
+}
+.btn{
+  height: 200px;
+  width: 200px;
+  border-radius: 25px;
+  margin: 30px;
+  border: 30px solid black;
+
+}
+
+.green{
+  background-color: green;
+
+}
+.red{
+background-color: red;
+}
+.yellow{
+  background-color: yellow;
+
+}
+.blue{
+  background-color: blue;
+}
+
+/* vfuntion section
+ */
+
+.pressed{
+background-color: gray;
+box-shadow: 0 5px 10px red;
+
+}
